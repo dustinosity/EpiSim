@@ -1,4 +1,7 @@
 EpiSim
 ======
 
-Epidemic Simulator 
+Epidemic Simulator written in Processing
+
+TODO:
+* port to processing.js
