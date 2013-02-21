@@ -4,9 +4,9 @@ EpiSim
 Epidemic Simulator written in Processing
 
 
-## Requirements:
+### Requirements
 * Controlp5 (http://code.google.com/p/controlp5/)
 
 
-## TODO:
+### TODO
 * port to processing.js
